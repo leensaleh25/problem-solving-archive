@@ -1,0 +1,2 @@
+.vs/
+git rm -r --cached .vs

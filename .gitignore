@@ -7,3 +7,6 @@ Release/
 *.db
 *.obj
 *.exe
+*.pdb
+*.vcxproj
+*.vcxproj.filters
